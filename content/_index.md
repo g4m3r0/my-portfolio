@@ -50,9 +50,8 @@ sections:
           description: |2-
             Responsibilities include:
             
-                * Developing software applications
-                * Collaborating with the development team
-                * Ensuring high-quality code and timely deliverables
+              * Developing software applications
+              * Collaborating with the development team
 
         - title: Software Developer (Internship)
           company: TKI mbH
@@ -61,7 +60,10 @@ sections:
           location: Chemnitz, Saxony, Germany
           date_start: '2022-08-01'
           date_end: '2022-09-30'
-          description: Assisted in software development projects and gained hands-on experience in various technologies.
+          description: |2-
+            Developed a software project for the recording of working time and gained hands-on experience in various technologies. 
+            
+            Technologies include: C#, .NET 6, Entity Framework, WPF, MVVM, Unit Testing, Git, CI/CD
 
         - title: Software Developer
           company: GSoftwareLab
@@ -79,7 +81,7 @@ sections:
 
         - title: System Administrator
           company: TheFastHost
-          company_url: 'thefasthost.net/'
+          company_url: 'https://thefasthost.net/'
           company_logo: org-x
           location: Saxony, Germany (Remote)
           date_start: '2018-12-01'
