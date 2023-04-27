@@ -196,7 +196,7 @@ sections:
         - name: Software
           tag: Software
         - name: .NET
-          tag: .NET
+          tag: NET
         - name: Deep Learning
           tag: Deep Learning
         - name: Other
