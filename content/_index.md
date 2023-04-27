@@ -210,9 +210,9 @@ sections:
   - block: markdown
     content:
       title: Gallery
-      subtitle: ''
+      subtitle: 'Free to use under the [Content License](https://pixabay.com/service/terms/). No attribution required.'
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="my-pixabay" >}}
     design:
       columns: '1'
   - block: collection
