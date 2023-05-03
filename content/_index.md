@@ -17,15 +17,15 @@ sections:
       title: Skills
       items:
         - name: C#
-          description: 90%
+          description:
           icon: r-project
           icon_pack: fab
         - name: AI & Deep Learning
-          description: 90%
+          description:
           icon: chart-line
           icon_pack: fas
         - name: Photography
-          description: 10%
+          description: 
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -95,7 +95,7 @@ sections:
             * Building and maintaining the website and DevOps-Tools
 
         - title: IT Systems Electronics Technician
-          company: Desa Gmbh
+          company: Desa GmbH
           company_url: ''
           company_logo: org-x
           location: Zwickau, Saxony, Germany
@@ -215,31 +215,31 @@ sections:
         {{< gallery album="my-pixabay" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+#  - block: collection
+#    id: featured
+#    content:
+#      title: Featured Publications
+#      filters:
+#        folders:
+#          - publication
+#        featured_only: true
+#    design:
+#      columns: '2'
+#      view: card
+#  - block: collection
+#    content:
+#      title: Recent Publications
+#      text: |-
+#        {{% callout note %}}
+#        Quickly discover relevant content by [filtering publications](./publication/).
+#        {{% /callout %}}
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: true
+#    design:
+#      columns: '2'
+#      view: citation
 #  - block: collection
 #    id: talks
 #    content:
@@ -258,10 +258,10 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Get in Touch
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        I'd love to hear from you! If you have any questions, comments, or would like to discuss potential collaboration on a software project, please don't hesitate to reach out using the contact form below. I'll get back to you as soon as possible. Let's connect and create something amazing together!
       # Contact (add or remove contact options as necessary)
       email: hi [\at/] codelu.eu
 #      phone: 888 888 88 88
@@ -278,10 +278,10 @@ sections:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
       contact_links:
-        - icon: twitter
+        - icon: linkedin
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://www.linkedin.com/in/lucas-schmutzler/'
 #        - icon: skype
 #          icon_pack: fab
 #          name: Skype Me
