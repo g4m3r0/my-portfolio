@@ -58,7 +58,6 @@ To convert a single WiX v3 source file to WiX v4, run the following command:
 
 ```bash
 wix convert path\to\file.wxs
-
 ```
 
 Replace `path\to\file.wxs` with the path to your WiX v3 source file. [firegiant.com](https://www.firegiant.com/wix/tutorial/upgrading-to-wix-v4/)
@@ -69,7 +68,6 @@ To convert all WiX v3 source files in a specified directory, run the following c
 
 ```bash
 wix convert --recurse path\to\directory
-
 ```
 
 Replace `path\to\directory` with the path to the directory containing your WiX v3 source files. [firegiant.com](https://www.firegiant.com/wix/tutorial/upgrading-to-wix-v4/)
