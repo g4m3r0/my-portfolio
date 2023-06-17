@@ -1,5 +1,5 @@
 ---
-title: Index Buddy (2020 - today)
+title: Index Buddy (2020 - Present)
 summary: Introducing the successor to Index Buddy - a robust desktop software that uses multi-threading to quickly and accurately index links and backlinks into major search engines. Developed with C# programming language, the program features a sleek and modern WPF UI for enhanced user experience and ease of use.
 
 tags:
