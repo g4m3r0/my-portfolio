@@ -1,5 +1,5 @@
 ---
-title: Proxy Buddy [2012 - today]
+title: Proxy Buddy (2012 - Present)
 summary: Proxy Buddy is an award-winning proxy scanner and proxy tester. It allows to automatically and easily scrape, test, filter, and export thousands of public proxy servers according to your requirements.
 
 tags:
