@@ -10,7 +10,7 @@ tags:
 date: "2023-05-03T12:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://gsoftwarelab.com/
+external_link: https://gsoftwarelab.com/organic-traffic-view-bot/
 
 image:
   caption: Traffic Buddy - Website View Bot

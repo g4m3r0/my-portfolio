@@ -10,7 +10,7 @@ tags:
 date: "2023-05-03T12:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://gsoftwarelab.com/proxy-scraper/
+external_link: https://gsoftwarelab.com/proxy-scraper-and-proxy-tester-software/
 
 image:
   caption: Proxy Buddy - Proxy Scraper and Proxy Tester
