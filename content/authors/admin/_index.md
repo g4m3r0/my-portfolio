@@ -29,6 +29,7 @@ bio: My interests include Software Development, AI & Deep Learning and Computer 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
+  - Software Development
   - Computational Linguistics
   - Information Retrieval
 

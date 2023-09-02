@@ -16,13 +16,13 @@ sections:
     content:
       title: Skills
       items:
-        - name: C#
+        - name: C# / .NET
           description:
-          icon: r-project
+          icon: code
           icon_pack: fab
         - name: AI & Deep Learning
           description:
-          icon: chart-line
+          icon: robot
           icon_pack: fas
         - name: Photography
           description: 
@@ -50,8 +50,10 @@ sections:
           description: |2-
             Responsibilities include:
             
-              * Developing software applications
+              * Agile Software Development (C#, Scrum)
               * Collaborating with the development team
+
+            Technologies include: C#, .NET 6, Entity Framework, WPF, MVVM, Unit Testing, Git, CI/CD, Scrum
 
         - title: Software Developer (Internship)
           company: TKI mbH
@@ -123,30 +125,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/A5JS98LBJX7Y
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2021-12-05'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.efset.org/cert/iHsGo8
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2023-06-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          organization: CEFR
+          organization_url: https://www.efset.org
+          title: CEFR C2 Proficient (English)
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     design:
       columns: '2'
   - block: collection
