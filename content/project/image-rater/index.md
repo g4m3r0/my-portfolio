@@ -1,6 +1,7 @@
 ---
 title: Image Rater (2023 - Present)
-summary: The Image Rater is a simple desktop application that allows users to annotate a set of images stored in a local folder. The tool displays each image in the folder one by one, allowing the user to annotate it using four buttons:: "Load Defect", "Overlay Defect", "Minor Overlay Defect", "Other Defect". Images can also be skipped if there is no annotation needed and the last annotation can be undone if an error was made.
+summary: |
+"The Image Rater is a simple desktop application that allows users to annotate a set of images stored in a local folder. The tool displays each image in the folder one by one, allowing the user to annotate it using four buttons:: "Load Defect", "Overlay Defect", "Minor Overlay Defect", "Other Defect". Images can also be skipped if there is no annotation needed and the last annotation can be undone if an error was made."
 
 tags:
   - Software
